@@ -1,10 +1,15 @@
 package test;
 
-public class Test {
+public class Test extends MijnAbstractClass{
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		
+		}
+	
+	public String abstractMethode()	 {
+		return null;
 	}
-
+	
+	
 }
